@@ -1,10 +1,13 @@
 ---
 date: 2026-09-07
 title: 二十六家一线建筑事务所里，二十五家在主动鼓励建筑师用 AI
+title_en: "25 of 26 leading architecture studios actively encourage AI use"
 direction: industry
 original: "Of the 26 studios that spoke to Dezeen, 25 were not only using AI but actively encouraging it."
 summary: Dezeen 问了全球 26 家一线建筑事务所（含 SOM、Foster + Partners），25 家不只在用 AI，还主动鼓励员工用；超过半数已自建内部系统。
+summary_en: "Dezeen surveyed 26 leading architecture studios worldwide, including SOM and Foster + Partners; 25 are not just using AI but actively encouraging staff to use it, and over half have built in-house systems."
 so_what: 被鼓励的不是「会用工具」，是把核验、行政、出图这类可重复工序整包让出去。对靠出图和改图计量工作量的设计师，这一栏的活正在从事务所内部消失，而不是变轻。
+so_what_en: "What's being encouraged isn't tool literacy, it's handing off whole repeatable tasks: verification, admin, drafting. For designers who bill by drawing and revision, that column of work is disappearing from studios, not getting lighter."
 source_name: Dezeen
 source_url: https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/
 source_date: 2026-08-25
@@ -15,6 +18,7 @@ episode: 2026-09-07
 thumb: /thumbs/2026-09-07-dezeen-studios-ai.jpg
 figure: "25/26"
 figure_unit: 家事务所
+figure_unit_en: "studios"
 ---
 
 同一篇调查里另外两个数字：CF Møller 称 Photoshop 使用量因生成式 AI 下降约 80%；Claude.ai 被 44% 的受访事务所使用，是最常用的工具。注意 44% 指的是**使用该工具的事务所占比**，不是用量份额。
