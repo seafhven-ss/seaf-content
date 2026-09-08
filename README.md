@@ -25,6 +25,6 @@ docs/          数据契约
 
 ## 发布
 
-push `main` 会通过 `.github/workflows/deploy.yml` 触发 Vercel 重新构建。
+push `main` 会通过仓库 webhook 触发 Vercel 重新构建（Settings → Webhooks，指向 Vercel deploy hook）。仓库内没有 CI 配置。
 
 内容文件不合契约时网站构建失败，会保留上一次成功的版本，不会把线上打挂。
