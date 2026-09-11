@@ -13,7 +13,7 @@ source_url: https://www.therobotreport.com/comau-automates-picking-handling-and-
 source_date: 2026-09-10
 source_type: media
 sku: MyCo
-status: draft
+status: published
 episode: 2026-09-11
 thumb: /thumbs/2026-09-11-decathlon-myco.jpg
 ---

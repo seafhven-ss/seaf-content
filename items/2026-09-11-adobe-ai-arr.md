@@ -13,7 +13,7 @@ source_url: https://www.reuters.com/business/adobe-beats-third-quarter-revenue-e
 source_date: 2026-09-10
 source_type: media
 sku: AI-first ARR
-status: draft
+status: published
 episode: 2026-09-11
 thumb: /thumbs/2026-09-11-adobe-ai-arr.jpg
 figure: "150%"

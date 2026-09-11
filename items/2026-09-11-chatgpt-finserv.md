@@ -13,7 +13,7 @@ source_url: https://openai.com/index/introducing-chatgpt-financial-services/
 source_date: 2026-09-10
 source_type: official
 sku: ChatGPT for Financial Services
-status: draft
+status: published
 episode: 2026-09-11
 thumb: /thumbs/2026-09-11-chatgpt-finserv.jpg
 ---

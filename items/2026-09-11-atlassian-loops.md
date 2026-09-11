@@ -13,7 +13,7 @@ source_url: https://www.atlassian.com/blog/jira/governed-agent-loops
 source_date: 2026-09-10
 source_type: official
 sku: Jira Coding Agent
-status: draft
+status: published
 episode: 2026-09-11
 thumb: /thumbs/2026-09-11-atlassian-loops.jpg
 figure: "94%"
