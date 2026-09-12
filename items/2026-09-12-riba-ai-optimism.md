@@ -12,7 +12,7 @@ source_name: RIBA AI Report 2026
 source_url: https://www.riba.org/work/insights-and-resources/ai-report/
 source_type: official
 sku: RIBA AI Report 2026
-status: draft
+status: published
 episode: 2026-09-12
 thumb: /thumbs/2026-09-12-riba-ai-optimism.jpg
 figure: "74%"

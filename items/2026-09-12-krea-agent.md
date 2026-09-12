@@ -13,7 +13,7 @@ source_url: https://www.krea.ai/docs/changelog
 source_date: 2026-09-10
 source_type: official
 sku: Krea Agent
-status: draft
+status: published
 episode: 2026-09-12
 thumb: /thumbs/2026-09-12-krea-agent.jpg
 figure: "300"
