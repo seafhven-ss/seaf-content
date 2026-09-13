@@ -1,0 +1,7 @@
+{
+  "name": "seaf-content",
+  "private": true,
+  "type": "module",
+  "scripts": { "validate": "node scripts/validate.mjs" },
+  "dependencies": { "yaml": "^2.9.0" }
+}

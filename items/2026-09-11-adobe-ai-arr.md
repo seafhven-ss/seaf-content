@@ -17,6 +17,6 @@ status: published
 episode: 2026-09-11
 thumb: /thumbs/2026-09-11-adobe-ai-arr.jpg
 figure: "150%"
-figure_unit: AI优先经常性收入同比
+figure_unit: AI收入同比
 figure_unit_en: "AI-first ARR YoY"
 ---
