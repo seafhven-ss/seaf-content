@@ -13,7 +13,7 @@ source_url: https://updates.midjourney.com/alpha-changelog-9-2-26/
 source_date: 2026-09-03
 source_type: official
 sku: Midjourney v8.2 edit model
-status: draft
+status: published
 episode: 2026-09-14
 figure: "4"
 figure_unit: 张参考图

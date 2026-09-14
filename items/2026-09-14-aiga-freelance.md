@@ -13,7 +13,7 @@ source_url: https://www.fastcompany.com/91571502/freelance-design-pricing-transp
 source_date: 2026-07-20
 source_type: media
 sku: Design Pricing Transparency Project
-status: draft
+status: published
 episode: 2026-09-14
 figure: "14%"
 figure_unit: 预计少请人

@@ -13,7 +13,7 @@ source_url: https://blog.chaos.com/cosmos-ai-3d-generation-image-search
 source_date: 2026-09-09
 source_type: official
 sku: Chaos Cosmos AI 3D Model Generation
-status: draft
+status: published
 episode: 2026-09-14
 thumb: /thumbs/2026-09-14-chaos-cosmos.jpg
 figure: "1"
