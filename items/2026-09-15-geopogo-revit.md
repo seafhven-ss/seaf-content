@@ -12,7 +12,7 @@ source_name: Geopogo
 source_url: https://geopogo.com/rnd/claude-to-revit
 source_type: official
 sku: Geopogo Claude to Revit
-status: draft
+status: published
 episode: 2026-09-15
 thumb: /thumbs/2026-09-15-geopogo-revit.jpg
 ---

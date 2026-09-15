@@ -13,7 +13,7 @@ source_url: https://www.runway.com/news/company-news/introducing-team-plan
 source_date: 2026-09-04
 source_type: official
 sku: Runway Team
-status: draft
+status: published
 episode: 2026-09-15
 thumb: /thumbs/2026-09-15-runway-team.jpg
 figure: "6,900"

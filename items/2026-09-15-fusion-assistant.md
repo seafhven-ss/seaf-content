@@ -13,6 +13,6 @@ source_url: https://www.autodesk.com/products/fusion-360/blog/september-2026-maj
 source_date: 2026-09-03
 source_type: official
 sku: Autodesk Assistant
-status: draft
+status: published
 episode: 2026-09-15
 ---

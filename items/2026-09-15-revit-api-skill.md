@@ -13,7 +13,7 @@ source_url: https://aps.autodesk.com/blog/let-ai-write-your-revit-code
 source_date: 2026-08-25
 source_type: official
 sku: dll2llm
-status: draft
+status: published
 episode: 2026-09-15
 thumb: /thumbs/2026-09-15-revit-api-skill.jpg
 figure: "1000+"
