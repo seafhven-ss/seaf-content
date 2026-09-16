@@ -12,7 +12,7 @@ source_name: Formas
 source_url: https://www.formas.ai/cartesian
 source_type: official
 sku: Cartesian by Formas
-status: draft
+status: published
 episode: 2026-09-16
 thumb: /thumbs/2026-09-16-formas-cartesian.jpg
 figure: "18"

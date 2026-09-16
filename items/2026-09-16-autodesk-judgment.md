@@ -13,7 +13,7 @@ source_url: https://www.prnewswire.com/news-releases/autodesk-advances-agentic-a
 source_date: 2026-09-15
 source_type: official
 sku: 2027 State of Design & Make Report
-status: draft
+status: published
 episode: 2026-09-16
 figure: "70%"
 figure_unit: 指望砍重复活

@@ -13,6 +13,6 @@ source_url: https://www.prnewswire.com/news-releases/autodesk-advances-agentic-a
 source_date: 2026-09-15
 source_type: official
 sku: Autodesk Assistant
-status: draft
+status: published
 episode: 2026-09-16
 ---
