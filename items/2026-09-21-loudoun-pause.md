@@ -12,7 +12,7 @@ source_name: Loudoun County
 source_url: https://www.loudoun.gov/CivicAlerts.aspx?AID=10874
 source_date: 2026-09-17
 source_type: official
-status: draft
+status: published
 episode: 2026-09-21
 figure: "12"
 figure_unit: 个月

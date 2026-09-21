@@ -13,7 +13,7 @@ source_url: https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-
 source_date: 2026-09-19
 source_type: media
 sku: Cobot Painter
-status: draft
+status: published
 episode: 2026-09-21
 thumb: /thumbs/2026-09-21-hirebotics-painter.jpg
 figure: "68.9"

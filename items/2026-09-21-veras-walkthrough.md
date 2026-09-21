@@ -13,7 +13,7 @@ source_url: https://blog.chaos.com/ai-architecture-animation
 source_date: 2026-09-14
 source_type: official
 sku: Veras
-status: draft
+status: published
 episode: 2026-09-21
 thumb: /thumbs/2026-09-21-veras-walkthrough.jpg
 figure: "2-4"

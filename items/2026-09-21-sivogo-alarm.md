@@ -13,7 +13,7 @@ source_url: https://www.dezeen.com/2026/09/16/gargi-agrawalla-sivogo-james-dyson
 source_date: 2026-09-16
 source_type: media
 sku: SIVO.GO
-status: draft
+status: published
 episode: 2026-09-21
 thumb: /thumbs/2026-09-21-sivogo-alarm.jpg
 figure: "500"
