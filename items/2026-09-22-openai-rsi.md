@@ -13,7 +13,7 @@ source_url: https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html
 source_date: 2026-09-21
 source_type: media
 sku: RSI
-status: draft
+status: published
 episode: 2026-09-22
 thumb: /thumbs/2026-09-22-openai-rsi.jpg
 ---

@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-09-17
 source_type: official
 sku: Figma node
-status: draft
+status: published
 episode: 2026-09-22
 thumb: /thumbs/2026-09-22-figma-node.jpg
 ---

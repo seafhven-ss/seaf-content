@@ -13,7 +13,7 @@ source_url: https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/
 source_date: 2026-09-21
 source_type: official
 sku: ThinkLabs AI
-status: draft
+status: published
 episode: 2026-09-22
 thumb: /thumbs/2026-09-22-thinklabs-grid.jpg
 figure: "2"

@@ -13,7 +13,7 @@ source_url: https://community.adobe.com/announcements-402/what-s-new-in-adobe-fi
 source_date: 2026-09-18
 source_type: official
 sku: Adobe Firefly Remove Background
-status: draft
+status: published
 episode: 2026-09-22
 thumb: /thumbs/2026-09-22-firefly-video.jpg
 figure: "10"
