@@ -13,7 +13,7 @@ source_url: https://vizcom.com/blog/just-add-a-guy-with-a-beard
 source_date: 2026-08-30
 source_type: official
 sku: Vizcom
-status: draft
+status: published
 episode: 2026-10-03
 thumb: /thumbs/2026-10-03-vizcom-gentle-monster.jpg
 ---

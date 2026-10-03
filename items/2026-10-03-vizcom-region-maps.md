@@ -13,7 +13,7 @@ source_url: https://vizcom.com/blog/introducing-region-maps-from-single-render-t
 source_date: 2026-09-22
 source_type: official
 sku: Vizcom Region Maps
-status: draft
+status: published
 episode: 2026-10-03
 thumb: /thumbs/2026-10-03-vizcom-region-maps.jpg
 ---
