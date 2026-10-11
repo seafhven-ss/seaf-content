@@ -13,7 +13,7 @@ source_url: https://updates.midjourney.com/testing-thinking-mode/
 source_date: 2026-10-08
 source_type: official
 sku: Midjourney Thinking Mode
-status: draft
+status: published
 episode: 2026-10-11
 thumb: /thumbs/2026-10-11-midjourney-thinking.jpg
 ---

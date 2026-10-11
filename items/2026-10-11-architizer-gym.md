@@ -12,7 +12,7 @@ source_name: Architizer
 source_url: https://architizer.com/blog/practice/tools/architecture-gym-design-judgment-ai/
 source_type: media
 sku: Krea K2
-status: draft
+status: published
 episode: 2026-10-11
 figure: "200"
 figure_unit: 欧元算力

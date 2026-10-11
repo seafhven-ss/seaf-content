@@ -13,6 +13,6 @@ source_url: https://axisrobotics.ai/solutions/manufacturing-sim2real
 source_date: 2026-10-08
 source_type: official
 sku: Axis Suite
-status: draft
+status: published
 episode: 2026-10-11
 ---

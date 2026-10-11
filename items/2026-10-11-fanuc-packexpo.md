@@ -12,7 +12,7 @@ source_name: Automated Warehouse
 source_url: https://www.automatedwarehouseonline.com/fanuc-america-brings-ai-packaging-cobots-pack-expo-2026/
 source_type: media
 sku: CRX-20iA/L, CRX-10iA, CRX-5iA
-status: draft
+status: published
 episode: 2026-10-11
 thumb: /thumbs/2026-10-11-fanuc-packexpo.jpg
 figure: "3"
