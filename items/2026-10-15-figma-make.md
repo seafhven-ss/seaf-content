@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-10-13
 source_type: official
 sku: Gemini 4 Argon
-status: draft
+status: published
 episode: 2026-10-15
 thumb: /thumbs/2026-10-15-figma-make.jpg
 ---

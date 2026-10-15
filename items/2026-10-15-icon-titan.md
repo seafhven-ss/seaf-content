@@ -13,7 +13,7 @@ source_url: https://www.iconbuild.com/newsroom/icon-raises-seriesd
 source_date: 2026-10-13
 source_type: official
 sku: Titan Print System
-status: draft
+status: published
 episode: 2026-10-15
 figure: "270"
 figure_unit: 栋累计建筑

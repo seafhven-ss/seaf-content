@@ -13,6 +13,6 @@ source_url: https://www.automatedwarehouseonline.com/greyorange-acquires-site-bi
 source_date: 2026-10-14
 source_type: media
 sku: Site Bionics
-status: draft
+status: published
 episode: 2026-10-15
 ---
