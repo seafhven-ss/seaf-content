@@ -13,7 +13,7 @@ source_url: https://www.d5render.com/posts/ai-3d-rendering-of-a-house
 source_date: 2026-10-13
 source_type: official
 sku: D5 Render
-status: draft
+status: published
 episode: 2026-10-16
 thumb: /thumbs/2026-10-16-d5-house-model.jpg
 figure: "2ft"

@@ -13,7 +13,7 @@ source_url: https://www.figma.com/blog/design-together-with-code-layers/
 source_date: 2026-10-15
 source_type: official
 sku: Figma code layers
-status: draft
+status: published
 episode: 2026-10-16
 thumb: /thumbs/2026-10-16-figma-code-layers.jpg
 figure: "50%"
