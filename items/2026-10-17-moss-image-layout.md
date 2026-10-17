@@ -13,6 +13,6 @@ sku: MOSS-Image-Base
 figure: "5"
 figure_unit: B 参数骨干
 thumb: /thumbs/2026-10-17-moss-image-layout.jpg
-status: draft
+status: published
 episode: 2026-10-17
 ---

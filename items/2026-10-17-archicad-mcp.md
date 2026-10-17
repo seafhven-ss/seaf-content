@@ -11,6 +11,6 @@ source_date: 2026-10-07
 source_type: official
 sku: Archicad MCP
 thumb: /thumbs/2026-10-17-archicad-mcp.jpg
-status: draft
+status: published
 episode: 2026-10-17
 ---

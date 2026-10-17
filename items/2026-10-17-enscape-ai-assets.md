@@ -13,6 +13,6 @@ sku: Enscape 4.21.0
 figure: "100"
 figure_unit: 厘米固定高
 thumb: /thumbs/2026-10-17-enscape-ai-assets.jpg
-status: draft
+status: published
 episode: 2026-10-17
 ---

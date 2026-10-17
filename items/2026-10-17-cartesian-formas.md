@@ -11,6 +11,6 @@ source_date: 2026-10-02
 source_type: media
 sku: Cartesian
 thumb: /thumbs/2026-10-17-cartesian-formas.jpg
-status: draft
+status: published
 episode: 2026-10-17
 ---
