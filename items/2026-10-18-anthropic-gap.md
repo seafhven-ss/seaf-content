@@ -12,7 +12,7 @@ source_name: Anthropic
 source_url: https://www.anthropic.com/research/ai-expectations-gap
 source_date: 2026-10-16
 source_type: official
-status: draft
+status: published
 episode: 2026-10-18
 thumb: /thumbs/2026-10-18-anthropic-gap.jpg
 figure: "75%"

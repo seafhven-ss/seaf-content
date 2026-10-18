@@ -13,7 +13,7 @@ source_url: https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-r
 source_date: 2026-10-16
 source_type: media
 sku: Glimpse
-status: draft
+status: published
 episode: 2026-10-18
 thumb: /thumbs/2026-10-18-elorian-glimpse.jpg
 ---

@@ -13,7 +13,7 @@ source_url: https://www.gadgetreview.com/ai-shelf-scanning-robots-are-now-rollin
 source_date: 2026-10-16
 source_type: media
 sku: Tally
-status: draft
+status: published
 episode: 2026-10-18
 thumb: /thumbs/2026-10-18-simbe-tally.jpg
 figure: "50"
