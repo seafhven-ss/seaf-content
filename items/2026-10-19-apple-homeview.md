@@ -13,7 +13,7 @@ source_url: https://www.apple.com/apple-homeview/
 source_date: 2026-10-13
 source_type: official
 sku: Apple HomeView
-status: draft
+status: published
 episode: 2026-10-19
 thumb: /thumbs/2026-10-19-apple-homeview.jpg
 figure: "6"

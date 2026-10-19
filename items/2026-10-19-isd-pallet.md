@@ -13,7 +13,7 @@ source_url: https://www.automatedwarehouseonline.com/isd-combines-palletizing-de
 source_date: 2026-10-16
 source_type: media
 sku: Palletizing Module
-status: draft
+status: published
 episode: 2026-10-19
 thumb: /thumbs/2026-10-19-isd-pallet.jpg
 figure: "43%"

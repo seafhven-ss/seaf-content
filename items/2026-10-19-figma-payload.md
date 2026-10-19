@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-10-15
 source_type: official
 sku: Payload in Figma
-status: draft
+status: published
 episode: 2026-10-19
 thumb: /thumbs/2026-10-19-figma-payload.jpg
 ---
