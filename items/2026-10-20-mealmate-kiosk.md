@@ -13,7 +13,7 @@ source_url: https://roboticsandautomationnews.com/2026/10/19/primepick-brings-ns
 source_date: 2026-10-19
 source_type: media
 sku: MealMate
-status: draft
+status: published
 episode: 2026-10-20
 thumb: /thumbs/2026-10-20-mealmate-kiosk.jpg
 figure: "5-7"

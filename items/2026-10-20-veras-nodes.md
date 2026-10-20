@@ -13,7 +13,7 @@ source_url: https://blog.chaos.com/veras-5.3
 source_date: 2026-10-19
 source_type: official
 sku: Veras 5.3
-status: draft
+status: published
 episode: 2026-10-20
 thumb: /thumbs/2026-10-20-veras-nodes.jpg
 figure: "25"

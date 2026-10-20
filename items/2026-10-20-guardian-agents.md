@@ -13,7 +13,7 @@ source_url: https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-
 source_date: 2026-10-19
 source_type: media
 sku: Guardian Agents
-status: draft
+status: published
 episode: 2026-10-20
 figure: "60"
 figure_unit: 类代理
