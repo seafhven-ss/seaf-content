@@ -13,7 +13,7 @@ source_url: https://techcrunch.com/2026/10/14/figma-announces-new-features-to-de
 source_date: 2026-10-15
 source_type: media
 sku: Figma
-status: draft
+status: published
 episode: 2026-10-21
 thumb: /thumbs/2026-10-21-figma-releases.jpg
 figure: "17"

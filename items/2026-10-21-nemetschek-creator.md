@@ -12,7 +12,7 @@ source_name: Graphisoft
 source_url: https://www.graphisoft.com/en-us/plans-and-products/nemetschek-creator/
 source_type: official
 sku: Nemetschek Creator
-status: draft
+status: published
 episode: 2026-10-21
 thumb: /thumbs/2026-10-21-nemetschek-creator.jpg
 figure: "28"
