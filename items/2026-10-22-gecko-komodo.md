@@ -13,7 +13,7 @@ source_url: https://www.therobotreport.com/gecko-robotics-earns-300m-contract-wi
 source_date: 2026-10-20
 source_type: media
 sku: Komodo
-status: draft
+status: published
 episode: 2026-10-22
 figure: "50x"
 figure_unit: 识别结构问题

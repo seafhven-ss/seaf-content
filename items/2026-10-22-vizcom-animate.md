@@ -13,7 +13,7 @@ source_url: https://www.vizcom.com/blog/your-design-moving-the-way-you-pictured-
 source_date: 2026-10-20
 source_type: official
 sku: Animate Block
-status: draft
+status: published
 episode: 2026-10-22
 thumb: /thumbs/2026-10-22-vizcom-animate.jpg
 figure: "4"

@@ -13,7 +13,7 @@ source_url: https://architizer.com/blog/inside-architizer/updates/2026-vision-aw
 source_date: 2026-10-19
 source_type: media
 sku: Vision Awards
-status: draft
+status: published
 episode: 2026-10-22
 figure: "70+"
 figure_unit: 项奖
