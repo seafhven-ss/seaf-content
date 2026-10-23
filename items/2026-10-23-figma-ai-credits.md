@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-10-22
 source_type: official
 sku: Figma paid AI credits
-status: draft
+status: published
 episode: 2026-10-23
 thumb: /thumbs/2026-10-23-figma-ai-credits.jpg
 ---

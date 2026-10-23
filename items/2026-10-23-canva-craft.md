@@ -13,7 +13,7 @@ source_url: https://www.canva.com/newsroom/news/canva-craft/
 source_date: 2026-10-22
 source_type: official
 sku: Canva Craft
-status: draft
+status: published
 episode: 2026-10-23
 figure: "30+"
 figure_unit: 种画幅

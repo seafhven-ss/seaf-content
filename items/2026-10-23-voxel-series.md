@@ -13,7 +13,7 @@ source_url: https://www.dezeen.com/2026/10/22/tuesday-labs-voxel-series-1/
 source_date: 2026-10-22
 source_type: media
 sku: Voxel Series-1
-status: draft
+status: published
 episode: 2026-10-23
 thumb: /thumbs/2026-10-23-voxel-series.jpg
 figure: "$20k"
