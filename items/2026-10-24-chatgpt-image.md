@@ -13,7 +13,7 @@ source_url: https://www.krea.ai/docs/changelog
 source_date: 2026-10-24
 source_type: official
 sku: ChatGPT Image
-status: draft
+status: published
 episode: 2026-10-24
 figure: "410"
 figure_unit: 已下线

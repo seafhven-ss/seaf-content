@@ -13,7 +13,7 @@ source_url: https://www.krea.ai/blog/krea-blender-addon
 source_date: 2026-10-20
 source_type: official
 sku: Krea for Blender
-status: draft
+status: published
 episode: 2026-10-24
 thumb: /thumbs/2026-10-24-krea-blender.jpg
 figure: "5.2"
