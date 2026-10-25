@@ -13,7 +13,7 @@ source_url: https://blogs.nvidia.com/blog/european-retail-open-models-robotics/
 source_date: 2026-10-21
 source_type: official
 sku: 3D Digital Twin Factory
-status: draft
+status: published
 episode: 2026-10-25
 thumb: /thumbs/2026-10-25-allsides-twin.jpg
 ---

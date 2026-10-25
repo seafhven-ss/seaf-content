@@ -13,7 +13,7 @@ source_url: https://www.photoroom.com/inside-photoroom/vestiaire-collective-liqu
 source_date: 2026-10-13
 source_type: official
 sku: Photoroom API
-status: draft
+status: published
 episode: 2026-10-25
 thumb: /thumbs/2026-10-25-photoroom-vestiaire.jpg
 figure: "5%"
