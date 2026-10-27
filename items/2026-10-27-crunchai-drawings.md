@@ -13,7 +13,7 @@ source_url: https://news.trimble.com/2026-10-21-Trimble-Expands-Risk-Intelligenc
 source_date: 2026-10-21
 source_type: official
 sku: CrunchAI
-status: draft
+status: published
 episode: 2026-10-27
 thumb: /thumbs/2026-10-27-crunchai-drawings.jpg
 ---

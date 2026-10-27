@@ -13,7 +13,7 @@ source_url: https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-genera
 source_date: 2026-10-12
 source_type: media
 sku: Blueprints AI
-status: draft
+status: published
 episode: 2026-10-27
 thumb: /thumbs/2026-10-27-blueprints-ai-v2.jpg
 figure: "3,200"

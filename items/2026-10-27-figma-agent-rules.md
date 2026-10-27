@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-10-06
 source_type: official
 sku: Figma agent
-status: draft
+status: published
 episode: 2026-10-27
 thumb: /thumbs/2026-10-27-figma-agent-rules.jpg
 ---

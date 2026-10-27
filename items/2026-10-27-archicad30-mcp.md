@@ -13,7 +13,7 @@ source_url: https://community.graphisoft.com/t5/Graphisoft-Insights/What-s-new-i
 source_date: 2026-10-07
 source_type: official
 sku: Archicad MCP
-status: draft
+status: published
 episode: 2026-10-27
 ---
 Graphisoft 官方口径是测试版，发布日期与可用范围可能随地区变化。
