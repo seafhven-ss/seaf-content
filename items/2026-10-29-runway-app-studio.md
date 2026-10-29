@@ -13,7 +13,7 @@ source_url: https://runway.com/news/company-news/introducing-runway-app-studio
 source_date: 2026-10-26
 source_type: official
 sku: Runway App Studio
-status: draft
+status: published
 episode: 2026-10-29
 thumb: /thumbs/2026-10-29-runway-app-studio.jpg
 ---

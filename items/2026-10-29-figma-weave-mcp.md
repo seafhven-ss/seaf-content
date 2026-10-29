@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/?title=access-video-and-image-mo
 source_date: 2026-10-26
 source_type: official
 sku: Figma Weave
-status: draft
+status: published
 episode: 2026-10-29
 thumb: /thumbs/2026-10-29-figma-weave-mcp.jpg
 ---

@@ -13,6 +13,6 @@ source_url: https://www.krea.ai/docs/changelog
 source_date: 2026-10-27
 source_type: official
 sku: Krea Nodes
-status: draft
+status: published
 episode: 2026-10-29
 ---
