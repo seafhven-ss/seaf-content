@@ -13,7 +13,7 @@ source_url: https://www.canva.com/newsroom/news/canva-brush/
 source_date: 2026-10-29
 source_type: official
 sku: Canva Brush
-status: draft
+status: published
 episode: 2026-10-30
 figure: "69%"
 figure_unit: 更快

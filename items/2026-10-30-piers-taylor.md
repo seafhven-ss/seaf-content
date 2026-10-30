@@ -13,7 +13,7 @@ source_url: https://www.dezeen.com/2026/10/29/ai-piers-taylor-opinion/
 source_date: 2026-10-29
 source_type: media
 sku: Piers Taylor
-status: draft
+status: published
 episode: 2026-10-30
 thumb: /thumbs/2026-10-30-piers-taylor.jpg
 ---

@@ -13,7 +13,7 @@ source_url: https://www.dreamhq.com/press/announcement
 source_date: 2026-10-29
 source_type: official
 sku: Dream built world models
-status: draft
+status: published
 episode: 2026-10-30
 thumb: /thumbs/2026-10-30-dream-world-models.jpg
 figure: "10"

@@ -13,7 +13,7 @@ source_url: https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows
 source_date: 2026-10-29
 source_type: media
 sku: Snaptrude Agent
-status: draft
+status: published
 episode: 2026-10-30
 thumb: /thumbs/2026-10-30-snaptrude-agent.jpg
 figure: "400"
