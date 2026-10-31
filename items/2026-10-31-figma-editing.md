@@ -13,7 +13,7 @@ source_url: https://www.figma.com/blog/training-a-figma-fluent-editing-model
 source_date: 2026-10-29
 source_type: official
 sku: Figma agent
-status: draft
+status: published
 episode: 2026-10-31
 thumb: /thumbs/2026-10-31-figma-editing.jpg
 figure: "20%"

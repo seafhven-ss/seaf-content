@@ -13,7 +13,7 @@ source_url: https://aecmag.com/ai/autodesk-beyond-the-seat-the-meter/
 source_date: 2026-10-27
 source_type: media
 sku: Autodesk Forma
-status: draft
+status: published
 episode: 2026-10-31
 thumb: /thumbs/2026-10-31-autodesk-meter.jpg
 figure: "2"

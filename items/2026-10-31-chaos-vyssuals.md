@@ -13,7 +13,7 @@ source_url: https://aecmag.com/visualisation/chaos-continues-to-expand-enscape-b
 source_date: 2026-10-28
 source_type: media
 sku: Vyssuals
-status: draft
+status: published
 episode: 2026-10-31
 thumb: /thumbs/2026-10-31-chaos-vyssuals.jpg
 ---
