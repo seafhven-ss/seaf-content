@@ -13,7 +13,7 @@ source_url: https://www.krea.ai/blog/introducing-ad-studio
 source_date: 2026-10-29
 source_type: official
 sku: Ad Studio
-status: draft
+status: published
 episode: 2026-11-01
 thumb: /thumbs/2026-11-01-krea-ad-studio.jpg
 figure: "5"

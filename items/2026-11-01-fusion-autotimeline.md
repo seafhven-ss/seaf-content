@@ -13,6 +13,6 @@ source_url: https://www.autodesk.com/products/fusion-360/blog/october-2026-major
 source_date: 2026-10-21
 source_type: official
 sku: AutoTimeline
-status: draft
+status: published
 episode: 2026-11-01
 ---

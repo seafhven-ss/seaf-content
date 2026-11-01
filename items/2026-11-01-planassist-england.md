@@ -13,7 +13,7 @@ source_url: https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/
 source_date: 2026-10-31
 source_type: official
 sku: PlanAssist
-status: draft
+status: published
 episode: 2026-11-01
 thumb: /thumbs/2026-11-01-planassist-england.jpg
 figure: "58%"
