@@ -13,7 +13,7 @@ source_url: https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-
 source_date: 2026-11-03
 source_type: media
 sku: MCP Skills
-status: draft
+status: published
 episode: 2026-11-05
 thumb: /thumbs/2026-11-05-autom8labs-mcp-skills.jpg
 figure: "22"

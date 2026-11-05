@@ -13,7 +13,7 @@ source_url: https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-buil
 source_date: 2026-11-03
 source_type: media
 sku: nVibe
-status: draft
+status: published
 episode: 2026-11-05
 thumb: /thumbs/2026-11-05-nvibe-aec-app-builder.jpg
 ---

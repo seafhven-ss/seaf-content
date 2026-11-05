@@ -12,7 +12,7 @@ source_name: AEC Magazine
 source_url: https://aecmag.com/ai/the-home-brew-estate-qa-with-amc-bridge/
 source_date: 2026-11-02
 source_type: media
-status: draft
+status: published
 episode: 2026-11-05
 thumb: /thumbs/2026-11-05-aec-shadow-software.jpg
 ---
