@@ -13,7 +13,7 @@ source_url: https://adsknews.autodesk.com/en/news/autodesk-forma-ai-aec-connecte
 source_date: 2026-09-15
 source_type: official
 sku: Autodesk 2027 State of Design & Make Report
-status: draft
+status: published
 episode: 2026-11-06
 thumb: /thumbs/2026-11-06-autodesk-pacesetters.jpg
 figure: "57%"

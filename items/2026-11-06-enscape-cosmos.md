@@ -13,7 +13,7 @@ source_url: https://blog.chaos.com/enscape-november-2026-release
 source_date: 2026-11-04
 source_type: official
 sku: Enscape 4.22
-status: draft
+status: published
 episode: 2026-11-06
 thumb: /thumbs/2026-11-06-enscape-cosmos.jpg
 figure: "1500+"
