@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-11-06
 source_type: official
 sku: Figma Select area
-status: draft
+status: published
 episode: 2026-11-07
 thumb: /thumbs/2026-11-07-figma-select.jpg
 ---
