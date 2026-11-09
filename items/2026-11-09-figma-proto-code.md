@@ -13,6 +13,6 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-11-03
 source_type: official
 sku: Figma code layers
-status: draft
+status: published
 episode: 2026-11-09
 ---

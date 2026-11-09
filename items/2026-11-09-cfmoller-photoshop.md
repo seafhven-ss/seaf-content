@@ -13,7 +13,7 @@ source_url: https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-a
 source_date: 2026-08-25
 source_type: media
 sku: Photoshop
-status: draft
+status: published
 episode: 2026-11-09
 figure: "80%"
 figure_unit: 修图软件用量
