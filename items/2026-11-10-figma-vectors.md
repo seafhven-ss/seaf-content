@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-11-05
 source_type: official
 sku: Figma agent vectors
-status: draft
+status: published
 episode: 2026-11-10
 thumb: /thumbs/2026-11-10-figma-vectors.jpg
 ---

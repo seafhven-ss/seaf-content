@@ -13,7 +13,7 @@ source_url: https://runway.com/changelog
 source_date: 2026-10-27
 source_type: official
 sku: Runway Ads
-status: draft
+status: published
 episode: 2026-11-10
 thumb: /thumbs/2026-11-10-runway-ads.jpg
 ---

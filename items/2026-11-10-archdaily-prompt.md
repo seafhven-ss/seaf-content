@@ -12,7 +12,7 @@ source_name: ArchDaily
 source_url: https://www.archdaily.com/1187895/beyond-buildings-archdailys-november-editorial-focus
 source_date: 2026-11-03
 source_type: media
-status: draft
+status: published
 episode: 2026-11-10
 thumb: /thumbs/2026-11-10-archdaily-prompt.jpg
 ---
