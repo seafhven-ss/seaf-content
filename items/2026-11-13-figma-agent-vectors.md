@@ -12,6 +12,6 @@ source_url: https://www.figma.com/release-notes?page=3
 source_date: 2026-11-05
 source_type: official
 sku: Figma Agent
-status: draft
+status: published
 episode: 2026-11-13
 ---
