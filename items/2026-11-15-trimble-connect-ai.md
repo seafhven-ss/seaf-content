@@ -13,7 +13,7 @@ source_url: https://www.prnewswire.com/news-releases/trimble-launches-new-trimbl
 source_date: 2026-11-09
 source_type: official
 sku: Trimble Connect
-status: draft
+status: published
 episode: 2026-11-15
 figure: "55"
 figure_unit: 百万累计用户

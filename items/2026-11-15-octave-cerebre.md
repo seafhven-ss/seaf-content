@@ -13,7 +13,7 @@ source_url: https://www.octave.com/newsroom/press-releases/2026/octave-acquires-
 source_date: 2026-11-11
 source_type: official
 sku: Cerebre
-status: draft
+status: published
 episode: 2026-11-15
 thumb: /thumbs/2026-11-15-octave-cerebre.jpg
 figure: "200"

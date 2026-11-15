@@ -13,7 +13,7 @@ source_url: https://aecmag.com/technology/finch-untethered/
 source_date: 2026-11-14
 source_type: media
 sku: Finch
-status: draft
+status: published
 episode: 2026-11-15
 thumb: /thumbs/2026-11-15-finch-floorplan.jpg
 figure: "80%"
