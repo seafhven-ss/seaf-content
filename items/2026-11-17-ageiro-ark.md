@@ -12,6 +12,6 @@ source_name: AEC Magazine
 source_url: https://aecmag.com/project-management/ageiro-launches-ark-watcher/
 source_type: media
 sku: Ark Watcher
-status: draft
+status: published
 episode: 2026-11-17
 ---

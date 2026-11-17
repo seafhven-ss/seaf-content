@@ -13,7 +13,7 @@ source_url: https://aecmag.com/visualisation/chaos-brings-ai-design-exploration-
 source_date: 2026-11-04
 source_type: media
 sku: Enscape 4.22
-status: draft
+status: published
 episode: 2026-11-17
 thumb: /thumbs/2026-11-17-enscape-veras.jpg
 figure: "4.22"

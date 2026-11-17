@@ -13,7 +13,7 @@ source_url: https://www.archdaily.com/1040024/what-architects-expect-from-ai-too
 source_date: 2026-03-31
 source_type: media
 sku: AI in Architecture Report 2026
-status: draft
+status: published
 episode: 2026-11-17
 thumb: /thumbs/2026-11-17-chaos-survey.jpg
 figure: "64%"
