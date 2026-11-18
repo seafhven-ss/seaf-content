@@ -13,6 +13,6 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-11-17
 source_type: official
 sku: Figma OAuth allowlist
-status: draft
+status: published
 episode: 2026-11-18
 ---

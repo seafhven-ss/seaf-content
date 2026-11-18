@@ -13,7 +13,7 @@ source_url: https://blog.adobe.com/en/publish/2026/11/10/explore-new-ways-create
 source_date: 2026-11-10
 source_type: official
 sku: Photoshop Relight
-status: draft
+status: published
 episode: 2026-11-18
 thumb: /thumbs/2026-11-18-photoshop-relight.jpg
 
