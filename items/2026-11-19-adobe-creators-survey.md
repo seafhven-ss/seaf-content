@@ -12,7 +12,7 @@ source_name: Adobe Blog
 source_url: https://blog.adobe.com/en/publish/2026/11/09/from-big-ideas-bigger-opportunities-creators-say-creative-ai-accelerating-growth
 source_date: 2026-11-09
 source_type: official
-status: draft
+status: published
 episode: 2026-11-19
 thumb: /thumbs/2026-11-19-adobe-creators-survey.jpg
 figure: "68%"

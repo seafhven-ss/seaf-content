@@ -13,7 +13,7 @@ source_url: https://news.adobe.com/news/2026/11/adobe-firefly-expands
 source_date: 2026-11-10
 source_type: official
 sku: Adobe Firefly
-status: draft
+status: published
 episode: 2026-11-19
 thumb: /thumbs/2026-11-19-adobe-firefly.jpg
 ---

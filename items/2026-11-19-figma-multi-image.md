@@ -13,7 +13,7 @@ source_url: https://www.figma.com/release-notes/
 source_date: 2026-11-18
 source_type: official
 sku: Figma Make image / Edit image
-status: draft
+status: published
 episode: 2026-11-19
 figure: "6"
 figure_unit: 张可选
