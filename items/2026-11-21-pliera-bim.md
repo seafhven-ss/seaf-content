@@ -13,7 +13,7 @@ source_url: https://aecmag.com/bim/pliera-a-new-bim-2-0/
 source_date: 2026-11-18
 source_type: media
 sku: Pliera
-status: draft
+status: published
 episode: 2026-11-21
 thumb: /thumbs/2026-11-21-pliera-bim.jpg
 figure: "6"
