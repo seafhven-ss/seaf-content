@@ -13,7 +13,7 @@ source_url: https://vizcom.com/blog/workbench3d-a-new-dimension-right-on-your-ca
 source_date: 2026-11-17
 source_type: official
 sku: Vizcom Workbench3D
-status: draft
+status: published
 episode: 2026-11-23
 thumb: /thumbs/2026-11-23-vizcom-workbench.jpg
 ---

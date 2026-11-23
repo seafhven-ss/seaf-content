@@ -13,7 +13,7 @@ source_url: https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/
 source_date: 2026-11-13
 source_type: media
 sku: qentin
-status: draft
+status: published
 episode: 2026-11-23
 thumb: /thumbs/2026-11-23-qentin-scan.jpg
 figure: "137"
