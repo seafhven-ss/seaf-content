@@ -13,7 +13,7 @@ source_url: https://www.krea.ai/docs/changelog
 source_date: 2026-11-21
 source_type: official
 sku: Krea for Rhino
-status: draft
+status: published
 episode: 2026-11-24
 thumb: /thumbs/2026-11-24-krea-rhino.jpg
 ---

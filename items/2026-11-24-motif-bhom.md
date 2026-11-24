@@ -13,7 +13,7 @@ source_url: https://aecmag.com/bim/buro-happold-and-motif-bridge-the-bim-collabo
 source_date: 2026-11-23
 source_type: media
 sku: BHoM
-status: draft
+status: published
 episode: 2026-11-24
 thumb: /thumbs/2026-11-24-motif-bhom.jpg
 figure: "700"

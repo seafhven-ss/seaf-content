@@ -13,7 +13,7 @@ source_url: https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-sli
 source_date: 2026-11-23
 source_type: official
 sku: Figma agent
-status: draft
+status: published
 episode: 2026-11-24
 thumb: /thumbs/2026-11-24-figma-slides.jpg
 ---
