@@ -13,7 +13,7 @@ source_url: https://blog.chaos.com/ai-renders-design-critique-tool
 source_date: 2026-11-19
 source_type: official
 sku: Chaos Veras
-status: draft
+status: published
 episode: 2026-11-26
 thumb: /thumbs/2026-11-26-chaos-renders.jpg
 ---

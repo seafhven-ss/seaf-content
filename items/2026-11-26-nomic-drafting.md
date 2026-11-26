@@ -13,7 +13,7 @@ source_url: https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and
 source_date: 2026-11-25
 source_type: media
 sku: Nomic
-status: draft
+status: published
 episode: 2026-11-26
 thumb: /thumbs/2026-11-26-nomic-drafting.jpg
 figure: "3"
